@@ -4,10 +4,6 @@ title: Welcome!
 published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 I recently completed the AWS Certified Solutions Architect Associate exam, so my first post will be about the methodology I used in my preparations for the exam. There are tons of sites out there with specific questions and topics on the exam, most notably, [acloud.guru](www.acloud.guru)'s Ryan Kroonenberg. 
 
 What did I use to prepare?
@@ -24,5 +20,6 @@ Looking back on the exam, while I passed on my first attempt, I think I would ha
 If you have committed to taking the exam, definitely do yourself a favor - roll your sleeves up and start jumping into the AWS console, with some guided help of course. Acloud.guru is a great place to get started.
 
 -Brian
+
 
 
