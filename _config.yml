@@ -9,7 +9,7 @@ name: Brian Rasa
 description: Presales Engineer - Photographer - Technology Guru
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://s3.amazonaws.com/brianrasa-public/brianrasa100_25_white.jpg
+avatar: 
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: https://s3.amazonaws.com/brianrasa-public/brianrasa100_25_white.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:brian@brianrasa.com
+  email: brian@brianrasa.com
   facebook:
   flickr:
   github: brianrasa
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:http://brianrasa.github.io
+url: http://brianrasa.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
